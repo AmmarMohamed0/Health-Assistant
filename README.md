@@ -1,3 +1,5 @@
+# Health-Assistant
+
 This code creates a web application using Streamlit for predicting three different health conditions: diabetes, heart disease, and Parkinson's disease.
 
 1. **Imports**: It imports necessary libraries such as `os`, `pickle`, and `streamlit`. `os` is used for interacting with the operating system, `pickle` is used for serializing and deserializing Python objects, and `streamlit` is used for creating web applications.
